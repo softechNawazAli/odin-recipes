@@ -1,0 +1,10 @@
+2023-04-28 10:46:19.066 [info] [SharedProcess] using utility process
+2023-04-28 10:46:19.189 [info] update#setState idle
+2023-04-28 10:46:21.221 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-28 10:46:21.232 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-28 10:46:21.265 [info] [UtilityProcess type: shared-process, pid: 60517]: successfully created
+2023-04-28 10:46:21.269 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 60518]: successfully created
+2023-04-28 10:46:21.688 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-28 10:46:21.708 [info] [UtilityProcess id: 1, type: extensionHost, pid: 60539]: successfully created
+2023-04-28 10:46:49.190 [info] update#setState checking for updates
+2023-04-28 10:46:49.636 [info] update#setState idle
