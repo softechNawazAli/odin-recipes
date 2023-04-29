@@ -8,3 +8,11 @@
 2023-04-28 10:46:21.708 [info] [UtilityProcess id: 1, type: extensionHost, pid: 60539]: successfully created
 2023-04-28 10:46:49.190 [info] update#setState checking for updates
 2023-04-28 10:46:49.636 [info] update#setState idle
+2023-04-29 21:54:32.925 [info] update#setState checking for updates
+2023-04-29 21:54:34.081 [info] update#setState idle
+2023-04-29 22:24:49.553 [info] [UtilityProcess id: 1, type: extensionHost, pid: 60539]: waiting to exit...
+2023-04-29 22:24:49.564 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 60518]: attempting to kill the process...
+2023-04-29 22:24:49.580 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 60518]: successfully killed the process
+2023-04-29 22:24:49.691 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 60518]: received exit event with code 0
+2023-04-29 22:24:49.747 [info] [UtilityProcess id: 1, type: extensionHost, pid: 60539]: received exit event with code 0
+2023-04-29 22:24:49.749 [info] Extension host with pid 60539 exited with code: 0, signal: unknown.
